@@ -1,3 +1,7 @@
 # Senacversionamento
 
+<<<<<<< HEAD
 isso foi adicionado no master
+=======
+já isso foi adicionado no main
+>>>>>>> main
